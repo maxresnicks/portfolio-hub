@@ -21,7 +21,7 @@ with col2:
 with col3:
     st.link_button("📧 Email Me", "mailto:maxresnick1996@gmail.com", use_container_width=True)
 with col4:
-    st.link_button("📄 View Resume", "https://www.linkedin.com/in/resnick7", use_container_width=True) # Swap with a Google Drive link to your PDF later!
+    st.link_button("📄 View Resume", "https://docs.google.com/document/d/1ZnIy8_TlLTdT-5rCvUtZiYBw_lvi7ahqPYcQ3GuhWjY/edit?usp=sharing", use_container_width=True) # Swap with a Google Drive link to your PDF later!
 
 # --- PROJECTS GALLERY ---
 st.write("---")
