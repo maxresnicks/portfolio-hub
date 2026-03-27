@@ -15,9 +15,9 @@ Proven track record of translating messy data into actionable strategy for cross
 st.write("---")
 col1, col2, col3, col4 = st.columns(4)
 with col1:
-    st.link_button("💼 LinkedIn", "https://www.linkedin.com/in/resnick7", use_container_width=True)
-with col2:
     st.link_button("💻 GitHub", "https://github.com/maxresnicks", use_container_width=True)
+with col2:
+    st.link_button("💼 LinkedIn", "https://www.linkedin.com/in/resnick7", use_container_width=True)
 with col3:
     st.link_button("📧 Email Me", "mailto:maxresnick1996@gmail.com", use_container_width=True)
 with col4:
@@ -28,7 +28,7 @@ st.write("---")
 st.header("Featured Projects")
 
 # Project 1: Two Chairs / Healthcare
-st.subheader("🏥 Healthcare Operations & Capacity Pipeline")
+st.subheader("Healthcare Operations & Capacity Pipeline")
 st.write("**Tech Stack:** Python, Streamlit, DuckDB, Pandas")
 st.write("""
 An end-to-end data pipeline built to model clinical supply against patient demand. 
