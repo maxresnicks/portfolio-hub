@@ -42,8 +42,3 @@ with p1_col2:
     st.link_button("View Source Code", "https://github.com/maxresnicks/mental-healthcare-pipeline")
 
 
-# Project 2: Placeholder for the next one!
-st.write("---")
-st.subheader("🌱 Ag-Tech Supply Chain Dashboard (Coming Soon)")
-st.write("**Tech Stack:** SQL, Python, GIS-lite")
-st.write("Currently architecting a model to track crop yields and resource utilization against weather anomalies for regional food distribution.")
