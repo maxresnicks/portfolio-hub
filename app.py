@@ -8,7 +8,7 @@ st.title("Max Resnick")
 st.subheader("Analytical Operations Professional")
 st.write("""
 Building scalable reporting infrastructure, data models, and automated workflows to solve complex operational bottlenecks. 
-Proven track record of translating messy data into actionable strategy for cross-functional teams and senior leadership.
+Proven track record of aiding in technical operations, translating messy data into actionable strategy for cross-functional teams and senior leadership, and leveraging AI & automation tools.
 """)
 
 # --- SOCIAL LINKS ---
